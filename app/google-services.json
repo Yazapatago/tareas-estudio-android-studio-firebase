@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182678226269",
+    "project_id": "tareasestudio",
+    "storage_bucket": "tareasestudio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182678226269:android:5e57da18c0c88b19c514b4",
+        "android_client_info": {
+          "package_name": "com.example.tareasestudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUdDKRGq9dNYvOmyReG06zoUYq870ZBPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
